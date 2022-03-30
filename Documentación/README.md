@@ -8,7 +8,6 @@ Al desarrollar software de calidad, tener una buena documentación es igual de i
 * [Ventajas] ()
 * [Referencias] ()
 
-<a name="que-es-documentar"/>
 ## ¿Qué es documentar?
 
 
