@@ -2,12 +2,13 @@
 Al desarrollar software de calidad, tener una buena documentación es igual de importante que tener un buen proyecto. En este *README* encontrarás todo lo que necesitas para elaborar una buena documentación.
 
 ## Índice
-* [¿Qué es documentar?] (#¿Qué es documentar?)
+* [¿Qué es documentar?] (#que-es-documentar)
 * [¿Por qué documentar?] ()
 * [¿Cómo documentar?] ()
 * [Ventajas] ()
 * [Referencias] ()
 
+<a name="que-es-documentar"/>
 ## ¿Qué es documentar?
 
 
