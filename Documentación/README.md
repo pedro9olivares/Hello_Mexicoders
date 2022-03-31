@@ -3,7 +3,7 @@ Al desarrollar software de calidad, tener una buena documentación es igual de i
 
 ## Índice
 * [¿Qué es y por qué documentar?](#¿Qué-es-y-por-qué-documentar?)
-* [Pasos a seguir](#pasos a seguir)
+* [Pasos a seguir](#pasos-a-seguir)
 * [Referencias](#referencias)
 
 ## ¿Qué es y por qué documentar?
