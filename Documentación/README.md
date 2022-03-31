@@ -29,7 +29,7 @@ Centrarse en tres aspectos:
 ### En resumen... 
 
 ## Referencias 
-\[1\]
+\[1\] D. Beck et al, *A beginner’s guide to writing documentation*, Write the Docs, fechaaa. Accessed on: March 30, 2022. \[Online\]. Available: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
 
 \[2\]
 
