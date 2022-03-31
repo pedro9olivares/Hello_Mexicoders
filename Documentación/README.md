@@ -41,6 +41,10 @@ Buscamos, en general, evitar dolores de cabeza con esta sección. Se deben tocar
 La documentación intenta responder:
 ![image](https://user-images.githubusercontent.com/61219691/160973038-9a169205-3e70-46ef-ba53-d694c4947565.png)
 
+Por ejemplo:
+![image](https://user-images.githubusercontent.com/61219691/160973943-28089697-6afb-4172-be7e-bcdfd590cb87.png)
+
+
 
 ## Referencias 
 \[1\] D. Beck et al, *A beginner’s guide to writing documentation*, Write the Docs, (n.d). Accessed on: March 30, 2022. \[Online\]. Available: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
