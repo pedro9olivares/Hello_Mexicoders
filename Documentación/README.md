@@ -7,6 +7,7 @@ En este *README* encontrarás una reflexión y una metodología para la document
 * [¿Qué es y por qué documentar?](#¿Qué-es-y-por-qué-documentar?)
 * [Pasos a seguir](#pasos-a-seguir)
 * [Referencias](#referencias)
+* [Un ejemplo](#un-ejemplo)
 
 ## ¿Qué es y por qué documentar?
 
