@@ -1,8 +1,8 @@
 # ¿Cómo documentar mi proyecto?
-Al desarrollar software de calidad, tener una buena documentación es igual de importante que tener un buen proyecto. En este *README* encontrarás todo lo que necesitas para elaborar una buena documentación.
+Al desarrollar software de calidad, tener una buena documentación es igual de importante que tener un buen proyecto. En este *README* encontrarás una reflexión y una metodología para la buena documentación.
 
 ## Índice
-* [¿Qué es y por qué documentar?](#modelos-generativos-de-lenguaje)
+* [¿Qué es y por qué documentar?](#¿Qué-es-y-por-qué-documentar?)
 * [Pasos a seguir](#pasos a seguir)
 * [Referencias](#referencias)
 
