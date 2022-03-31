@@ -16,7 +16,7 @@ La documentación se trata, sobre todo, de accesibilidad. Con esto mente, se pue
 
 Al añadir material explicativo y descriptivo a nuestro proyecto estamos mejorando la accesibilidad de este. 
 
-El acceso a nuestro proyecto mejora porque una buena documentación sirve de gancho para capturar la atención y sirve de distintivo en un mar de información; sirve para explicar por qué, cómo y para qué usar nuestro proyecto; sirve para divulgar información valiosa para impulsar la innovación y la colaboración, 
+El acceso a nuestro proyecto mejora porque una buena documentación sirve de gancho para capturar la atención y sirve de distintivo en un mar de información; sirve para explicar por qué, cómo y para qué usar nuestro proyecto; sirve para divulgar información valiosa y para impulsar la innovación y la colaboración, 
 y sirve para hacerle la vida más simple a los demás y a uno mismo (ya que por ahí dicen que una buena documentación es como una carta de amor para tu yo del futuro [[1]](#referencias). 
 
 ## ¿Cómo documentar?
