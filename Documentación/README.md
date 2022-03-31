@@ -26,7 +26,7 @@ Aunque existen muchas metodologías para documentar, una documentación adecuada
 (Es importante destacar que antes de empezar a documentar se debe elegir el formato más apropiado para nuestra documentación, por ejemplo, un archivo markdown (.md), pdf o una página web).
 
 ### ¿Para qué?
-Buscamos describir, en una o dos oraciones, qué hace nuestro proyecto y algún detalle de implementación importante (por ejemplo, que lenguaje usamos). Al desarrollar software de código abierto o al trabajar en equipo, es muy importante responder de manera adecuada esta pregunta, ya que de ello dependerá si se utilizará nuestro proyecto o no. 
+Buscamos describir, en una o dos oraciones, qué hace nuestro proyecto y algún detalle de implementación importante (por ejemplo, qué lenguaje usamos). Al desarrollar software de código abierto o al trabajar en equipo, es muy importante responder de manera adecuada esta pregunta, ya que de ello dependerá si se utilizará nuestro proyecto o no. 
 
 ### ¿Por qué?
 Buscamos dar la motivación del proyecto: qué nos llevo a hacerlo, por qué es útil o mejor que las alternativas, comparaciones con otros proyectos, etc.
