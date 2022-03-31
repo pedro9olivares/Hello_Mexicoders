@@ -10,7 +10,7 @@ Esto nos indica que nuestra implementación es la más eficiente.
 ## Instalación
 La librería dinámica se puede descargar [en este link]()
 ## El truco: arreglo de Olivares-Sánchez
-La eficiencia se logra implementar una función `funcion1(p1, p2, f)`, donde el parámetro f es la fecha de nacimiento del usuario. 
+La eficiencia se logra al implementar una función `funcion1(p1, p2, f)`, donde el parámetro f es la fecha de nacimiento del usuario. 
 Esta función hace tal, tal y tal.
 
 
