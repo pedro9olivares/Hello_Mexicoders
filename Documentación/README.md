@@ -36,6 +36,7 @@ Esta sección puede ser tan corta o larga como se desee, ya que dependerá mucho
 Buscamos, en general, evitar dolores de cabeza con esta sección. Se deben tocar y explicar los procesos de instalación o cómo usar nuestro proyecto. Se debe explicar conceptos teóricos y/o prácticos importantes. A su vez, se deben explicar detalles técnicos del código que se consideren importantes. También es de suma importancia escribir comentarios significativos dentro del código para facilitar la comprensión de este y la colaboración. Igualmente, se pueden incorporar apoyos visuales e incluso bloques de código. 
 
 ### En resumen... 
+... y visualmente:
 ![image](https://user-images.githubusercontent.com/61219691/160970834-1f29a4ce-5614-4886-83fd-a7d87b077380.png)
 
 
