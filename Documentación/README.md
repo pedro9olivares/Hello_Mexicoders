@@ -36,6 +36,8 @@ Esta sección puede ser tan corta o larga como se desee, ya que dependerá mucho
 Buscamos, en general, evitar dolores de cabeza con esta sección. Se deben tocar y explicar los procesos de instalación o cómo usar nuestro proyecto. Se debe explicar conceptos teóricos y/o prácticos importantes. A su vez, se deben explicar detalles técnicos del código que se consideren importantes. Aquí también se puede incorporar apoyos visuales e incluso bloques de código. 
 
 ### En resumen... 
+![image](https://user-images.githubusercontent.com/61219691/160970834-1f29a4ce-5614-4886-83fd-a7d87b077380.png)
+
 
 ## Referencias 
 \[1\] D. Beck et al, *A beginner’s guide to writing documentation*, Write the Docs, (n.d). Accessed on: March 30, 2022. \[Online\]. Available: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
