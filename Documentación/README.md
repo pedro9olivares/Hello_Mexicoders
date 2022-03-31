@@ -8,7 +8,10 @@ Al desarrollar software de calidad, tener una buena documentación es igual de i
 
 ## ¿Qué es y por qué documentar?
 
+Nacimos demasiado tarde para descubrir el mundo y demasiado temprano para explorar el universo, pero nos tocó vivir en la maravillosa época del software open-source o de código abierto.
+
 ## ¿Cómo documentar?
+
 
 ## Referencias 
 
