@@ -8,8 +8,8 @@ Al desarrollar software de calidad, tener una buena documentación es igual de i
 
 ## ¿Qué es y por qué documentar?
 
-Nacimos demasiado tarde para descubrir el mundo, demasiado temprano para explorar el universo, pero, por fortuna, justo a tiempo para desarrollar software de manera fácil y accesible. La documentación se trata, sobre todo, de accesibilidad. 
-> La documentación de software es la incorporación de documentos, apoyos visuales, comentarios o algún otro material para explicar o describir un proyecto de software.
+Nacimos demasiado tarde para descubrir el mundo, demasiado temprano para explorar el universo, pero, por fortuna, justo a tiempo para desarrollar software de manera fácil y accesible. La documentación se trata, sobre todo, de accesibilidad. Teniendo esto muy en mente, podemos enunciar la siguiente definición:
+> La documentación de software es la incorporación de documentos, apoyos visuales, comentarios, videos o algún otro material para explicar o describir un proyecto de software.
 
 Para mantener y mejorar la accesibilidad de las personas (entre ellas, uno mismo) a nuestro proyectos 
 
