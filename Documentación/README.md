@@ -39,7 +39,7 @@ Buscamos, en general, evitar dolores de cabeza con esta sección. Se deben tocar
 
 ### En resumen
 La documentación intenta responder:
-![image](https://user-images.githubusercontent.com/61219691/160970834-1f29a4ce-5614-4886-83fd-a7d87b077380.png)
+![image](https://user-images.githubusercontent.com/61219691/160972878-292d2197-d39c-4d66-826e-496e9c002b4b.png)
 
 
 ## Referencias 
